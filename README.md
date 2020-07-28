@@ -20,7 +20,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, PAYEMS`
 
-The `PAYEMS` column represents the amount of vehicles sold at the time of the corresponding `date`.  
+The `PAYEMS` column represents the amount of employees in the U.S. at the time of the corresponding `date`.  
 
 
 ## More Information
