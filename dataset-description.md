@@ -1,0 +1,1 @@
+This release contains information on the amount of employees in the United States, excluding proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. The employees in the provided data contribute to about 80 percent of the United States Gross Domestic Product (GDP).
